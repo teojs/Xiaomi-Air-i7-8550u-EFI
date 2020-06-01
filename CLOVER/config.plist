@@ -366,9 +366,9 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>FVF909270QX0000AD</string>
+		<string>FVFC3TY1L40Y1C2B3</string>
 		<key>ROM</key>
-		<string>UseMacAddr0</string>
+		<data>4kfkGfCg</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -383,7 +383,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>FVF909270QX0000AD</string>
+		<string>FVFC3TY1L40Y1C2B3</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -412,19 +412,19 @@
 		<string>0x1A</string>
 		<key>ProductName</key>
 		<string>MacBookPro14,1</string>
-		<key>Trust</key>
-		<true/>
 		<key>SerialNumber</key>
 		<string>FVFYCWYLL40Y</string>
 		<key>SmUUID</key>
-		<string>8C25515B-B6B2-4ED6-9768-AD1E4A856453</string>
+		<string>5CCCD3EA-89BA-46F2-9208-1D6C3319F0A0</string>
+		<key>Trust</key>
+		<true/>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>8C25515B-B6B2-4ED6-9768-AD1E4A856453</string>
+		<string>5CCCD3EA-89BA-46F2-9208-1D6C3319F0A0</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
